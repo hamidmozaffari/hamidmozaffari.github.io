@@ -11,32 +11,29 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, University  of  Massachusetts Amherst, 2023 (expected), GPA: 3.91
-* M.S in Information Security, Amirkabir University of Technology (Tehran Polytechnic), 2017, GPA: 4.00
-* B.S in Software Engineering, K. N. Toosi University of Technology, 2014, GPA: 3.79
-
-
+* Ph.D in Computer Science
+    * University  of  Massachusetts Amherst, 2023 (expected)
+    * GPA: 3.91
+* M.S in Information Security
+    * Amirkabir University of Technology (Tehran Polytechnic), 2017
+    * GPA: 4.00
+* B.S in Software Engineering
+    * K. N. Toosi University of Technology, 2014
+    * GPA: 3.79
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* University of Massachusetts Amherst
+    * Research Assistant - Supervisor: Dr. Amir Houmansadr
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Amirkabir University of Technology
+  * Research Assistant - Supervisor: Dr. Babak Sadeghyian
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* PyTorch
+* Python
+* Java
 
 Publications
 ======

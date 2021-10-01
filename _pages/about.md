@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD candidate at UMass Amherst in the [College of Information and Computer Science] under the supervision of [Amir Houmansadr].My research focus is in security, privacy, and fairness of machine learning algorithms. I received my M.Sc degree from [Amirkabir University of Technology] under supervision of [Babak Sadeghiyan], where I designed a congestion control for [Tor] to mitigate DoS attacks for my thesis. 
+I'm a Ph.D. candidate at UMass Amherst in the [College of Information and Computer Science] under the supervision of [Amir Houmansadr]. My research focus is in security, privacy, and fairness of machine learning algorithms. I received my M.Sc degree from [Amirkabir University of Technology] under supervision of [Babak Sadeghiyan], where I designed a congestion control for [Tor] to mitigate DoS attacks as my thesis. 
 
 ---
 
