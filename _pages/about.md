@@ -12,6 +12,8 @@ I'm a Ph.D. candidate at UMass Amherst in the [College of Information and Comput
 
 ---
 
+[My CV](https://people.cs.umass.edu/~hamid/resume.pdf)
+
 ## Research Interests:
 - Security and Privacy of Machine Learning Algorithms
 - Personalization in Federated Learning
@@ -24,3 +26,14 @@ I'm a Ph.D. candidate at UMass Amherst in the [College of Information and Comput
 [Babak Sadeghiyan]: <https://aut.ac.ir/cv/2102/BABAK-SADEGHIYAN?slc_lang=en&&cv=2102&mod=scv>
 [Amirkabir University of Technology]: <https://aut.ac.ir/>
 [Tor]: <https://www.torproject.org/>
+
+---
+
+## Publications
+
+- [Heterogeneous Private Information Retrieval](https://par.nsf.gov/servlets/purl/10183612)
+    Hamid Mozaffari, Amir Houmansadr
+    7th Network and Distributed System Security Symposium, NDSS 2020
+- [Blocking-Resilient Communications in Information-Centric Networks using Router Redirection](https://par.nsf.gov/servlets/purl/10183613)
+     Hamid Mozaffari, Amir Houmansadr, Arun Venkataramani
+    IEEE Globecom, ICEC 2019
