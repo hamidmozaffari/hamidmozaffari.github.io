@@ -31,9 +31,9 @@ I'm a Ph.D. candidate at UMass Amherst in the [College of Information and Comput
 
 ## Publications
 
-- [Heterogeneous Private Information Retrieval](https://par.nsf.gov/servlets/purl/10183612)
-    Hamid Mozaffari, Amir Houmansadr
-    7th Network and Distributed System Security Symposium, NDSS 2020
-- [Blocking-Resilient Communications in Information-Centric Networks using Router Redirection](https://par.nsf.gov/servlets/purl/10183613)
-     Hamid Mozaffari, Amir Houmansadr, Arun Venkataramani
-    IEEE Globecom, ICEC 2019
+- [Heterogeneous Private Information Retrieval](https://par.nsf.gov/servlets/purl/10183612)   
+    - Hamid Mozaffari, Amir Houmansadr   
+    - 7th Network and Distributed System Security Symposium, NDSS 2020
+- [Blocking-Resilient Communications in Information-Centric Networks using Router    Redirection](https://par.nsf.gov/servlets/purl/10183613)
+    - Hamid Mozaffari, Amir Houmansadr, Arun Venkataramani   
+    - IEEE Globecom, ICEC 2019  
